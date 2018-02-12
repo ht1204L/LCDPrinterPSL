@@ -74,7 +74,7 @@ local.properties
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar in this case, the libraries will be added, since i am not using any dependency management like Maven
 *.war
 *.ear
 *.zip
